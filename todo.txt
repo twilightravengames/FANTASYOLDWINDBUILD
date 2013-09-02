@@ -1,0 +1,17 @@
+*Try changing bitmap format (al_set_new_bitmap_format) to see if I 
+get any performance boosts
+
+*Adjust character movement so it is more natural and smooth
+
+*Make it so when you move and you release the button, it
+gradually slows down instead of going to a dead stop
+
+*Fix collision detection
+
+*Add Seren attack animations (when Will has them ready)
+
+*3D Terrain 
+
+*Use PhysFS archives for image, music, and other game resources
+
+
